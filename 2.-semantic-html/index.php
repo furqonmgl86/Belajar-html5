@@ -9,5 +9,9 @@
 <body>
     <h1>Coba kan aja</h1>
     <p>Tambahkan lagi</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
