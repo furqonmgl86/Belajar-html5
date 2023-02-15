@@ -1,0 +1,582 @@
+WEBVTT
+
+1
+00:00:00.060 --> 00:00:02.520
+Apakah kalian termasuk salah satu orang
+
+2
+00:00:02.520 --> 00:00:05.100
+yang memiliki pertanyaan ini aku mau
+
+3
+00:00:05.100 --> 00:00:07.740
+jadi programmer Apa ya bahasa yang tepat
+
+4
+00:00:07.740 --> 00:00:10.160
+untuk aku pelajari pertama kali
+
+5
+00:00:10.160 --> 00:00:12.420
+bahasa pemrograman apa yang harus
+
+6
+00:00:12.420 --> 00:00:15.360
+dipelajari pertama kali bahasa apa ya
+
+7
+00:00:15.360 --> 00:00:19.080
+yang cocok untuk pemula atau bahasa
+
+8
+00:00:19.080 --> 00:00:20.640
+program apa sih kira-kira yang paling
+
+9
+00:00:20.640 --> 00:00:23.340
+gampang Nah pertanyaan-pertanyaan tadi
+
+10
+00:00:23.340 --> 00:00:25.859
+biasanya muncul ketika kita baru mau
+
+11
+00:00:25.859 --> 00:00:28.140
+memulai untuk belajar skill programming
+
+12
+00:00:28.140 --> 00:00:31.260
+baru atau saat kita mau pilih jalur
+
+13
+00:00:31.260 --> 00:00:34.500
+karir pemrogramannya nah terus bagaimana
+
+14
+00:00:34.500 --> 00:00:37.170
+kita menentukan bahasa program tadi
+
+15
+00:00:37.170 --> 00:00:43.379
+[Musik]
+
+16
+00:00:43.379 --> 00:00:45.239
+hal yang pertama kali harus kita lakukan
+
+17
+00:00:45.239 --> 00:00:48.360
+adalah untuk mencari tahu dulu tujuan
+
+18
+00:00:48.360 --> 00:00:50.520
+dan minat kita saat pengen jadi
+
+19
+00:00:50.520 --> 00:00:53.160
+programmer Apakah kita mau menjadi
+
+20
+00:00:53.160 --> 00:00:56.340
+seorang front and developer atau back
+
+21
+00:00:56.340 --> 00:00:59.100
+and developer atau kalau misalnya kita
+
+22
+00:00:59.100 --> 00:01:01.020
+tertarik dengan hal-hal yang berbau
+
+23
+00:01:01.020 --> 00:01:04.019
+mobile atau smartphone Nah kalau kita
+
+24
+00:01:04.019 --> 00:01:05.939
+udah tahu dimana minat kita kita bisa
+
+25
+00:01:05.939 --> 00:01:07.740
+menentukan bahasa pemrograman apa yang
+
+26
+00:01:07.740 --> 00:01:09.960
+harus kita pelajari Nah sekarang
+
+27
+00:01:09.960 --> 00:01:12.180
+pertanyaannya adalah bagaimana kita
+
+28
+00:01:12.180 --> 00:01:14.400
+harus menentukan misalnya bahasa PHP
+
+29
+00:01:14.400 --> 00:01:16.860
+atau Kenapa kita harus pilih Python atau
+
+30
+00:01:16.860 --> 00:01:18.840
+kita harus pilih javascript atau bahasa
+
+31
+00:01:18.840 --> 00:01:21.060
+lainnya nah seperti yang udah kita bahas
+
+32
+00:01:21.060 --> 00:01:23.820
+di video sebelumnya pada dasarnya bahasa
+
+33
+00:01:23.820 --> 00:01:25.860
+programan itu bisa dibagi Jadi dua jenis
+
+34
+00:01:25.860 --> 00:01:28.020
+ada yang disebut dengan low level
+
+35
+00:01:28.020 --> 00:01:31.200
+language atau bahasa tingkat rendah dan
+
+36
+00:01:31.200 --> 00:01:33.900
+High Level language atau bahasa tingkat
+
+37
+00:01:33.900 --> 00:01:37.079
+tinggi kita coba bahas satu-satu yang
+
+38
+00:01:37.079 --> 00:01:40.079
+pertama low level language Ini adalah
+
+39
+00:01:40.079 --> 00:01:41.820
+bahasa yang mudah dimengerti oleh
+
+40
+00:01:41.820 --> 00:01:43.259
+komputer
+
+41
+00:01:43.259 --> 00:01:46.680
+super duper cepat dan memberi banyak
+
+42
+00:01:46.680 --> 00:01:49.920
+fleksibilitas dalam apa yang dapat kita
+
+43
+00:01:49.920 --> 00:01:53.460
+lakukan tapi sulit untuk dipahami oleh
+
+44
+00:01:53.460 --> 00:01:55.320
+Kita sebagai manusia
+
+45
+00:01:55.320 --> 00:01:58.259
+dan kodenya Mungkin aja tidak berjalan
+
+46
+00:01:58.259 --> 00:02:00.500
+dari satu mesin ke mesin yang lain
+
+47
+00:02:00.500 --> 00:02:02.939
+contoh dari low level language Ini
+
+48
+00:02:02.939 --> 00:02:05.579
+adalah bahasa assembly dan juga kode
+
+49
+00:02:05.579 --> 00:02:07.920
+mesin terus kita masuk ke yang kedua
+
+50
+00:02:07.920 --> 00:02:11.038
+yaitu High Level language bahasa ini
+
+51
+00:02:11.038 --> 00:02:14.160
+mudah dimengerti dan didibag oleh
+
+52
+00:02:14.160 --> 00:02:17.400
+manusia ya lalu juga kode yang sama itu
+
+53
+00:02:17.400 --> 00:02:21.180
+akan berjalan di banyak mesin tapi lebih
+
+54
+00:02:21.180 --> 00:02:23.760
+lambat untuk komputer ya contoh dari
+
+55
+00:02:23.760 --> 00:02:25.560
+High Level language Ini adalah bahasa
+
+56
+00:02:25.560 --> 00:02:28.860
+Python javascript dan masih banyak
+
+57
+00:02:28.860 --> 00:02:31.860
+bahasa-bahasa lainnya sebetulnya setiap
+
+58
+00:02:31.860 --> 00:02:34.640
+bahasa pemrograman itu memiliki sintaks
+
+59
+00:02:34.640 --> 00:02:37.860
+kompleksitas perilaku dan fiturnya
+
+60
+00:02:37.860 --> 00:02:40.440
+masing-masing konsep dasarnya dalam
+
+61
+00:02:40.440 --> 00:02:42.540
+belajar pemograman adalah kalau kita
+
+62
+00:02:42.540 --> 00:02:46.440
+paham artinya bisa perbaikin errornya
+
+63
+00:02:46.440 --> 00:02:49.140
+Maka selanjutnya kita akan mudah untuk
+
+64
+00:02:49.140 --> 00:02:51.260
+belajar bahasa pemrograman yang lain
+
+65
+00:02:51.260 --> 00:02:54.120
+Jika kalian khawatir tentang pekerjaan
+
+66
+00:02:54.120 --> 00:02:57.180
+atau karir yang akan dipilih kalian
+
+67
+00:02:57.180 --> 00:02:58.860
+harus tahu dulu bahwa banyak perusahaan
+
+68
+00:02:58.860 --> 00:03:02.040
+di luar sana bahkan seperti Google dan
+
+69
+00:03:02.040 --> 00:03:04.379
+Microsoft sekalipun itu meminta kalian
+
+70
+00:03:04.379 --> 00:03:07.560
+memecahkan masalah dalam bahasa apapun
+
+71
+00:03:07.560 --> 00:03:10.319
+yang kalian rasa paling nyaman
+
+72
+00:03:10.319 --> 00:03:11.959
+dan perusahaan-perusahaan tersebut
+
+73
+00:03:11.959 --> 00:03:14.640
+biasanya nggak cuma menggunakan satu
+
+74
+00:03:14.640 --> 00:03:16.920
+bahasa pemrograman aja di perusahaan
+
+75
+00:03:16.920 --> 00:03:19.019
+mereka Contohnya Google mereka
+
+76
+00:03:19.019 --> 00:03:21.060
+menggunakan kombinasi dari beberapa
+
+77
+00:03:21.060 --> 00:03:24.300
+bahasa pemrograman Oke tapi gimana cara
+
+78
+00:03:24.300 --> 00:03:26.239
+memilih bahasa pemrograman yang tepat
+
+79
+00:03:26.239 --> 00:03:28.860
+dalam memilih bahasa programan kita
+
+80
+00:03:28.860 --> 00:03:31.379
+harus tentukan dulu tujuan kita belajar
+
+81
+00:03:31.379 --> 00:03:34.680
+bahasa pemrograman itu apa ya tabel
+
+82
+00:03:34.680 --> 00:03:36.120
+sederhana berikut ini bisa kalian
+
+83
+00:03:36.120 --> 00:03:39.120
+gunakan untuk menimbang atau memilih
+
+84
+00:03:39.120 --> 00:03:41.340
+bahasa pemrograman mana yang kalian
+
+85
+00:03:41.340 --> 00:03:42.540
+gunakan
+
+86
+00:03:42.540 --> 00:03:54.689
+[Musik]
+
+87
+00:03:55.319 --> 00:03:57.780
+Nah dari pola pertanyaan tersebut dapat
+
+88
+00:03:57.780 --> 00:03:59.940
+kalian kembangkan lagi sesuai dengan
+
+89
+00:03:59.940 --> 00:04:02.940
+rasa penasaran kalian ingin pilih bahasa
+
+90
+00:04:02.940 --> 00:04:05.220
+pemrograman yang mana Nah tapi pada
+
+91
+00:04:05.220 --> 00:04:08.280
+akhirnya memilih bahasa pemograman itu
+
+92
+00:04:08.280 --> 00:04:10.140
+bergantung pada apa yang ingin kita
+
+93
+00:04:10.140 --> 00:04:12.420
+lakukan banyak programmer yang masih
+
+94
+00:04:12.420 --> 00:04:14.220
+bingung tentang apa yang ingin mereka
+
+95
+00:04:14.220 --> 00:04:16.880
+fokuskan dan jadinya tidak konsisten
+
+96
+00:04:16.880 --> 00:04:20.100
+Jadi mereka itu terus berganti-ganti
+
+97
+00:04:20.100 --> 00:04:23.280
+bahasa jika kita tahu kita mau fokusnya
+
+98
+00:04:23.280 --> 00:04:25.740
+Kemana kita akan belajar bahasa yang
+
+99
+00:04:25.740 --> 00:04:28.800
+berkaitan dengan itu terus-menerus nah
+
+100
+00:04:28.800 --> 00:04:31.199
+gimana masih bingung nggak kira-kira
+
+101
+00:04:31.199 --> 00:04:34.320
+ingin belajar Bahasa apa dulu tenang
+
+102
+00:04:34.320 --> 00:04:37.380
+teman-teman ya jangan khawatir karena di
+
+103
+00:04:37.380 --> 00:04:38.940
+tahap selanjutnya dalam memilih bahasa
+
+104
+00:04:38.940 --> 00:04:41.820
+pemrograman yaitu mempelajari bahasa
+
+105
+00:04:41.820 --> 00:04:43.860
+pemrograman yang paling banyak dicari
+
+106
+00:04:43.860 --> 00:04:46.979
+dan diminati pelajari bahasa pemrograman
+
+107
+00:04:46.979 --> 00:04:48.720
+yang paling banyak diminati tentunya
+
+108
+00:04:48.720 --> 00:04:50.759
+merupakan peluang untuk kita mendapatkan
+
+109
+00:04:50.759 --> 00:04:53.880
+pekerjaan di bidang tersebut ya jika
+
+110
+00:04:53.880 --> 00:04:55.620
+kedua tahapan tersebut udah kita lalui
+
+111
+00:04:55.620 --> 00:04:57.960
+maka tahap berikutnya yaitu fokus
+
+112
+00:04:57.960 --> 00:05:00.060
+terhadap bahasa pemrograman yang sudah
+
+113
+00:05:00.060 --> 00:05:02.580
+kita pilih tadi banyak programmer yang
+
+114
+00:05:02.580 --> 00:05:04.500
+nggak fokus mempelajari sebuah bahasa
+
+115
+00:05:04.500 --> 00:05:07.080
+pemrograman ya Karena pada saat lihat
+
+116
+00:05:07.080 --> 00:05:09.840
+ada bahasa pemrograman lain yang diklaim
+
+117
+00:05:09.840 --> 00:05:12.380
+atau katanya lebih cepat dan lebih baik
+
+118
+00:05:12.380 --> 00:05:15.840
+Biasanya kita akan coba pelajari bahasa
+
+119
+00:05:15.840 --> 00:05:18.320
+tersebut dan pindah ke bahasa tersebut
+
+120
+00:05:18.320 --> 00:05:21.360
+nah cara ini tidaklah salah Tapi
+
+121
+00:05:21.360 --> 00:05:23.340
+alangkah lebih baik jika kita fokus
+
+122
+00:05:23.340 --> 00:05:26.340
+untuk mempelajari satu bahasa sampai
+
+123
+00:05:26.340 --> 00:05:27.840
+dengan menguasainya
+
+124
+00:05:27.840 --> 00:05:31.100
+kita pelajari lebih dalam Ya misalnya
+
+125
+00:05:31.100 --> 00:05:33.919
+teori-teori lain seperti desain patter
+
+126
+00:05:33.919 --> 00:05:38.759
+cleanco reflektor testing serta optimasi
+
+127
+00:05:38.759 --> 00:05:42.419
+dalam menyelesaikan suatu masalah semua
+
+128
+00:05:42.419 --> 00:05:44.280
+bahasa pemrograman itu bagus jika
+
+129
+00:05:44.280 --> 00:05:47.820
+digunakan oleh orang yang mengerti cara
+
+130
+00:05:47.820 --> 00:05:50.699
+menggunakannya terlepas dari apapun
+
+131
+00:05:50.699 --> 00:05:52.680
+pilihan kalian ingat bahwa kemampuan
+
+132
+00:05:52.680 --> 00:05:55.199
+berbahasa programan itu dapat ditransfer
+
+133
+00:05:55.199 --> 00:05:57.539
+Nah maksudnya gimana Jadi jika kita
+
+134
+00:05:57.539 --> 00:06:00.120
+sudah belajar satu bahasa maka kita
+
+135
+00:06:00.120 --> 00:06:02.039
+dapat dengan segera atau dengan cepat
+
+136
+00:06:02.039 --> 00:06:04.740
+mempelajari bahasa teman-teman lain
+
+137
+00:06:04.740 --> 00:06:08.460
+jadi selalu lakukan riset Pilihlah
+
+138
+00:06:08.460 --> 00:06:11.400
+bahasa pemrograman yang mana yang paling
+
+139
+00:06:11.400 --> 00:06:13.259
+menyenangkan untuk pemula dan yang
+
+140
+00:06:13.259 --> 00:06:16.139
+paling menyenangkan untuk dipelajari ya
+
+141
+00:06:16.139 --> 00:06:19.139
+tonton terus videonya jangan lupa like
+
+142
+00:06:19.139 --> 00:06:21.180
+dan subscribe kalau kalian pengen
+
+143
+00:06:21.180 --> 00:06:23.419
+belajar lebih lanjut mengenai
+
+144
+00:06:23.419 --> 00:06:26.710
+programming see you on the next video
+
+145
+00:06:26.710 --> 00:06:45.190
+[Musik]
+
